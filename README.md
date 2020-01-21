@@ -1,24 +1,13 @@
-# README
+# Lingo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![](https://i.ibb.co/NyskDRW/showcase.png)
 
-Things you may want to cover:
+## Description
 
-* Ruby version
+A blog template
 
-* System dependencies
+## Built With
 
-* Configuration
+* [ReactJS](https://reactjs.org/) - Frontend
+* [Ruby on Rails](https://rubyonrails.org/) - Backend
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
